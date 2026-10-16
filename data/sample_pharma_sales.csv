@@ -1,0 +1,11 @@
+sales_id,product,region,sales_date,quantity,unit_price
+1001,Product_A,North,2026-01-05,20,150
+1002,Product_B,South,2026-01-06,15,200
+1003,Product_C,East,2026-01-07,30,100
+1004,Product_A,West,2026-01-08,25,150
+1005,Product_B,North,2026-01-09,10,200
+1006,Product_C,South,2026-01-10,40,100
+1007,Product_A,East,2026-01-11,12,150
+1008,Product_B,West,2026-01-12,18,200
+1009,Product_C,North,2026-01-13,22,100
+1010,Product_A,South,2026-01-14,16,150
